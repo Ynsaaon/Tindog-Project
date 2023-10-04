@@ -4,6 +4,8 @@ The front-end design of TinDog's homepage website is where users first land comb
 **Elements of TinDog's Home Page Front-End Design**
 
 - **Header Section:** At the top of the home page that typically includes iOS and Android button downloads.
+
+
 ![Header Section](./READMEphoto/Header.png)
 
 <br />
@@ -15,6 +17,8 @@ The front-end design of TinDog's homepage website is where users first land comb
 <br/>
 
 - **Footer Section:** The footer typically contains links to important pages.
+
+
 ![Footer](./READMEphoto/Footer.png)
 
 <br />
